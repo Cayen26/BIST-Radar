@@ -401,14 +401,17 @@ private struct LLMResponsePayload: Codable {
 // MARK: - Default config
 
 extension LLMConfig {
-    static let `default` = LLMConfig(
-        provider: .openAIDirect,
-        apiKey: ProcessInfo.processInfo.environment["OPENAI_API_KEY"] ?? "",
-        proxyURL: nil,
-        modelID: "gpt-4o",
-        maxTokens: 2048,
-        timeoutSeconds: 45
-    )
+    static var `default`: LLMConfig {
+        let key = UserDefaults.standard.string(forKey: "openAIApiKey") ?? ""
+        return LLMConfig(
+            provider: .openAIDirect,
+            apiKey: key.isEmpty ? nil : key,
+            proxyURL: nil,
+            modelID: "gpt-4o",
+            maxTokens: 2048,
+            timeoutSeconds: 45
+        )
+    }
 }
 
 // MARK: - Prompt Templates
