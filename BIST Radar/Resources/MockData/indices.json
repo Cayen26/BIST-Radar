@@ -1,0 +1,26 @@
+[
+  {
+    "symbol": "XU100",
+    "name": "BIST 100",
+    "value": 13717.8,
+    "change": -143.93,
+    "changePercent": -1.04,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "symbol": "XU050",
+    "name": "BIST 50",
+    "value": 12239.27,
+    "change": -88.72,
+    "changePercent": -0.72,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "symbol": "XU030",
+    "name": "BIST 30",
+    "value": 15483.7,
+    "change": -81.68,
+    "changePercent": -0.52,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  }
+]

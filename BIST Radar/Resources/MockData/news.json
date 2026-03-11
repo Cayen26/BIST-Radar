@@ -1,0 +1,252 @@
+[
+  {
+    "id": "n001",
+    "title": "THYAO Yönetim Kurulu 2025 Yılı Temettü Kararını Açıkladı",
+    "summary": "Türk Hava Yolları yönetim kurulu, 2025 yılı net kârından hisse başına 3.20 TL nakit temettü dağıtılmasına karar verdi. Ödeme Nisan 2026'da gerçekleştirilecek. Şirket yönetimi, güçlü yolcu trafiği ve yakıt maliyetlerindeki gerilemeye dikkat çekti.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["THYAO"],
+    "publishedAt": "2026-03-01T09:15:00Z",
+    "isBreaking": true
+  },
+  {
+    "id": "n002",
+    "title": "MERKEZ BANKASI FAİZ KARARI AÇIKLANDI: BIST 100'DE DALGALANMA",
+    "summary": "Merkez Bankası Para Politikası Kurulu faiz oranını 250 baz puan indirerek yüzde 42.5'e çekti. Karar sonrası BIST 100 endeksi kısa süreliğine yüzde 2 değer kazandı, ancak kâr realizasyonlarıyla kayıplarını geri verdi.",
+    "source": "Bloomberg HT",
+    "category": "market",
+    "relatedSymbols": [],
+    "publishedAt": "2026-03-01T14:00:00Z",
+    "isBreaking": true
+  },
+  {
+    "id": "n003",
+    "title": "GARAN'ın 2025 Net Kârı 180 Milyar TL'ye Ulaştı",
+    "summary": "Garanti Bankası 2025 yılı bilanço sonuçlarını açıkladı. Net kâr geçen yıla göre yüzde 34 artışla 180 milyar TL'ye yükseldi. Özkaynak kârlılığı (ROE) yüzde 41.2 olarak gerçekleşti. Bankanın sermaye yeterlilik oranı yasal sınırların üzerinde seyrediyor.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["GARAN"],
+    "publishedAt": "2026-02-28T17:30:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n004",
+    "title": "Bankacılık Sektörü 2025'te Rekor Kâr Açıkladı",
+    "summary": "BDDK verilerine göre Türk bankacılık sektörü 2025 yılında toplam 2.1 trilyon TL net kâr elde etti. Bu rakam önceki yıla göre yüzde 40 artışa işaret ediyor. Uzmanlar, faiz marjı genişlemesini ve düşen kredi takip oranını olumlu faktörler olarak değerlendirdi.",
+    "source": "Investing.com TR",
+    "category": "sector",
+    "relatedSymbols": ["GARAN", "AKBNK", "HALKB", "VAKBN", "ISCTR"],
+    "publishedAt": "2026-02-27T11:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n005",
+    "title": "EREGL Çelik Üretimini Artırma Kararı Aldı",
+    "summary": "Ereğli Demir Çelik, 2026 yılı için üretim kapasitesini yüzde 15 artırmayı hedefliyor. Şirket, yeni pota ocağı yatırımının Haziran 2026'da devreye alınacağını açıkladı. İhracat gelirleri 2025'te 4.2 milyar dolar seviyesinde gerçekleşti.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["EREGL"],
+    "publishedAt": "2026-02-26T16:45:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n006",
+    "title": "Enflasyon Şubat'ta Beklentilerin Altında Geldi",
+    "summary": "TÜİK açıklamasına göre Şubat 2026 enflasyonu aylık bazda yüzde 2.3, yıllık bazda yüzde 48.7 olarak gerçekleşti. Piyasa beklentisi yüzde 50'nin üzerindeydi. Düşük enflasyon verisi TL ve hisse senetleri üzerinde olumlu etki yarattı.",
+    "source": "TÜİK",
+    "category": "economy",
+    "relatedSymbols": [],
+    "publishedAt": "2026-03-01T10:00:00Z",
+    "isBreaking": true
+  },
+  {
+    "id": "n007",
+    "title": "ASELS Savunma İhracatında Yeni Rekora Ulaştı",
+    "summary": "Aselsan, 2025 yılı ihracat gelirini 2.8 milyar dolar olarak açıkladı. Bu rakam, şirket tarihinin en yüksek ihracat başarısı. Yeni imzalanan kontratların toplam değeri 5.2 milyar dolara ulaştı. Drone ve elektronik harp sistemleri ihracat büyümesinin başlıca kaynakları.",
+    "source": "Milliyet",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["ASELS"],
+    "publishedAt": "2026-02-25T09:30:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n008",
+    "title": "Teknoloji Sektörü Yılın En İyi Performansını Sergiledi",
+    "summary": "BIST Teknoloji endeksi (XUTEK) son 30 günde yüzde 18.4 değer kazanarak piyasanın en iyi performans gösteren sektörü oldu. Yapay zeka projelerindeki artış ve ihracat gelirlerindeki büyüme, teknoloji şirketlerine olan ilginin artmasına katkıda bulundu.",
+    "source": "Borsa Gündem",
+    "category": "sector",
+    "relatedSymbols": ["LOGO", "NETAS", "INDES", "ARENA"],
+    "publishedAt": "2026-02-24T13:20:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n009",
+    "title": "AKBNK Yeni Dijital Bankacılık Stratejisini Açıkladı",
+    "summary": "Akbank, önümüzdeki 3 yılda dijital altyapıya 15 milyar TL yatırım yapacağını duyurdu. Yapay zeka destekli kredi değerlendirme sisteminin 2026 yılı ikinci çeyreğinde devreye alınması planlanıyor. Bankanın mobil kullanıcı sayısı 12 milyonu aştı.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["AKBNK"],
+    "publishedAt": "2026-02-22T14:10:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n010",
+    "title": "Fed Mart Toplantısında Faiz Kararı Beklentiler Dahilinde Geldi",
+    "summary": "ABD Merkez Bankası (Fed) Mart 2026 toplantısında politika faizini sabit bıraktı. Açıklama sonrası küresel piyasalarda risk iştahı arttı. Gelişen piyasalara sermaye girişi hızlandı. BIST, Mart başında bu gelişmenin etkisiyle alıcılı bir seyir izliyor.",
+    "source": "Reuters",
+    "category": "world",
+    "relatedSymbols": [],
+    "publishedAt": "2026-02-20T21:30:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n011",
+    "title": "TUPRS Rafineri Kapasitesini Genişletiyor",
+    "summary": "Tüpraş, 1.2 milyar dolarlık modernizasyon yatırımı kapsamında İzmit rafinerisindeki kapasitesini yüzde 12 artırmayı hedefliyor. Projenin 2027 sonunda tamamlanması planlanıyor. Şirket, yeşil enerji dönüşümü kapsamında biyoyakıt üretimine de başlayacak.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["TUPRS"],
+    "publishedAt": "2026-02-19T15:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n012",
+    "title": "Gayrimenkul Sektöründe İşlem Hacmi Zirveye Ulaştı",
+    "summary": "REIDIN verilerine göre Ocak-Şubat 2026 döneminde İstanbul'da konut satışları geçen yıla göre yüzde 22 arttı. Yabancı alıcıların payı yüzde 8.5'e yükseldi. BIST Gayrimenkul endeksi bu dönemde yüzde 9.3 değer kazandı.",
+    "source": "Hürriyet Emlak",
+    "category": "sector",
+    "relatedSymbols": ["EKGYO", "ISGYO"],
+    "publishedAt": "2026-02-17T09:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n013",
+    "title": "PETKM'de Olağanüstü Genel Kurul Toplantısı Kararı",
+    "summary": "Petkim Petrokimya Holding yönetim kurulu, sermaye artırımı ve temettü dağıtımı gündemleriyle Nisan 2026'da olağanüstü genel kurul toplantısı yapılmasına karar verdi. Ayrıca yeni CEO atamasına ilişkin kararın da bu toplantıda açıklanması bekleniyor.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["PETKM"],
+    "publishedAt": "2026-02-27T11:30:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n014",
+    "title": "Türkiye Cari Fazla Vermeye Devam Ediyor",
+    "summary": "TCMB verilerine göre Türkiye Ocak 2026'da 2.8 milyar dolar cari fazla verdi. Bu, art arda 8. ay cari fazla. Turizm gelirleri ve ihracat artışı cari dengeyi olumlu etkilemeye devam ediyor. Yatırımcılar TL varlıklar üzerindeki baskının azaldığını değerlendiriyor.",
+    "source": "TCMB",
+    "category": "economy",
+    "relatedSymbols": [],
+    "publishedAt": "2026-02-15T10:30:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n015",
+    "title": "SISE Cam Grubu Avrupa'da Yeni Fabrika Yatırımı Açıkladı",
+    "summary": "Şişecam, Almanya'da 800 milyon Euro'luk düz cam fabrikası yatırımı yapacağını duyurdu. Fabrikanın 2028 yılında devreye girmesi planlanıyor. Bu yatırım, şirketin Avrupa'daki üretim kapasitesini yüzde 35 artıracak.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["SISE", "TRKCM"],
+    "publishedAt": "2026-02-26T12:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n016",
+    "title": "Enerji Sektörü Düzenleyici Kararlar Sonrası Baskıda",
+    "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), elektrik dağıtım tarifeleri için yüzde 15'in altında zam uygulanmasına karar verdi. Piyasa beklentisi yüzde 25'in üzerindeydi. BIST Elektrik endeksi kararın ardından yüzde 3.2 geriledi.",
+    "source": "AA",
+    "category": "sector",
+    "relatedSymbols": ["AKSEN", "ZOREN", "ODAS"],
+    "publishedAt": "2026-02-10T16:45:00Z",
+    "isBreaking": true
+  },
+  {
+    "id": "n017",
+    "title": "BIMAS Yurt Dışı Açılım Stratejisini Hızlandırıyor",
+    "summary": "BİM Birleşik Mağazalar, Orta Doğu ve Afrika operasyonlarını genişletmek için 2 milyar TL ek yatırım kararı aldı. 2026 sonuna kadar 500 yeni mağaza açılması planlanıyor. Şirket, E-ticaret platformunun pazar payını yüzde 8'e çıkarmayı hedefliyor.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["BIMAS"],
+    "publishedAt": "2026-02-22T14:30:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n018",
+    "title": "Eurobond İhracında Rekor Talep: Türkiye 5 Milyar Dolar Topladı",
+    "summary": "Hazine ve Maliye Bakanlığı, 10 yıl vadeli eurobond ihracında 17 milyar dolarlık talep topladı. Ülke risk priminin (CDS) son 5 yılın en düşük seviyesine gerilemesi talep artışında belirleyici oldu. Faiz oranı yüzde 6.8 olarak belirlendi.",
+    "source": "Bloomberg",
+    "category": "economy",
+    "relatedSymbols": [],
+    "publishedAt": "2026-02-13T18:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n019",
+    "title": "KCHOL Holding, Dijital Girişim Fonunu 1 Milyar Dolara Çıkardı",
+    "summary": "Koç Holding, teknoloji startup'larına yatırım için kurduğu girişim fonu büyüklüğünü 1 milyar dolara yükseltti. Fonun öncelikli hedefleri arasında yapay zeka, temiz enerji ve savunma teknolojileri yer alıyor. Fon şimdiye kadar 23 şirkete yatırım yaptı.",
+    "source": "Dünya",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["KCHOL", "ARCLK", "TOASO", "TUPRS"],
+    "publishedAt": "2026-02-07T11:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n020",
+    "title": "Perakende Satışları Ocak'ta Güçlü Seyretti",
+    "summary": "TÜİK perakende satış hacim endeksi Ocak 2026'da yıllık bazda yüzde 11.3 arttı. Gıda dışı perakende satışlar yüzde 14.8 artışla öne çıktı. Zincir market ve hipermarket satışları en yüksek büyüme oranını kaydeden segmentler oldu.",
+    "source": "TÜİK",
+    "category": "economy",
+    "relatedSymbols": ["BIMAS", "MGROS"],
+    "publishedAt": "2026-02-28T10:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n021",
+    "title": "TOASO Elektrikli Araç Üretimine Başlıyor",
+    "summary": "Tofaş Türk Otomobil Fabrikası, Bursa tesislerinde tam elektrikli araç üretimi için 800 milyon Euro'luk dönüşüm projesini başlattı. İlk elektrikli model 2027 başında banttan inecek. Şirket, AB emisyon standartlarını karşılamak için bu dönüşümün zorunlu olduğunu belirtti.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["TOASO", "FROTO"],
+    "publishedAt": "2026-02-04T14:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n022",
+    "title": "Dolar/TL Kurunda Dalgalanma: 32.50 Seviyesini Test Etti",
+    "summary": "Dolar/TL kuru dün 32.50'yi test ederek Şubat ayının en yüksek seviyesine ulaştı. Jeopolitik gelişmeler ve portföy çıkışları baskı oluşturdu. TCMB'nin piyasaya döviz sattığına dair raporlar kurun 32.20'ye geri çekilmesini sağladı.",
+    "source": "Reuters",
+    "category": "market",
+    "relatedSymbols": [],
+    "publishedAt": "2026-02-25T15:30:00Z",
+    "isBreaking": true
+  },
+  {
+    "id": "n023",
+    "title": "Turizm Geliri 2025'te 65 Milyar Dolara Ulaştı",
+    "summary": "Kültür ve Turizm Bakanlığı açıklamasına göre Türkiye 2025 yılında 65 milyar dolar turizm geliri elde etti. Ziyaretçi sayısı 58 milyona ulaşarak rekor kırdı. Havayolu şirketleri ve otel grupları bu büyümeden en fazla yararlanan sektörler oldu.",
+    "source": "Kültür ve Turizm Bakanlığı",
+    "category": "economy",
+    "relatedSymbols": ["THYAO", "TAVHL"],
+    "publishedAt": "2026-02-01T10:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n024",
+    "title": "VAKBN Sermaye Artırımı Kararı Duyurdu",
+    "summary": "Vakıfbank, hisse başına 1 TL nominal değer üzerinden yüzde 25 bedelsiz sermaye artırımı yapacağını KAP'a bildirdi. Yeni hisselerin dağıtım tarihi Nisan 2026 olarak belirlendi. Artırım sonrası bankanın ödenmiş sermayesi 25 milyar TL'ye yükselecek.",
+    "source": "KAP",
+    "category": "kapDisclosure",
+    "relatedSymbols": ["VAKBN"],
+    "publishedAt": "2026-02-28T16:00:00Z",
+    "isBreaking": false
+  },
+  {
+    "id": "n025",
+    "title": "BIST Yabancı Yatırımcı Payı 3 Yılın Zirvesinde",
+    "summary": "Borsa İstanbul verileri, yabancı yatırımcıların BIST'teki pay oranının yüzde 37'ye ulaştığını ve son 3 yılın en yüksek seviyesinde olduğunu gösteriyor. Net döviz girişi Şubat ayında 1.8 milyar doları aştı. Uzmanlar, TL varlıklara ilginin artmaya devam ettiğini vurguluyor.",
+    "source": "Borsa İstanbul",
+    "category": "market",
+    "relatedSymbols": [],
+    "publishedAt": "2026-03-01T08:30:00Z",
+    "isBreaking": false
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Savunma",
+    "changePercent": 4.56,
+    "topGainer": "SDTTR",
+    "stockCount": 4,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "İletişim",
+    "changePercent": -3.02,
+    "topGainer": "NETAS",
+    "stockCount": 3,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Sigorta",
+    "changePercent": -2.32,
+    "topGainer": "ANSGR",
+    "stockCount": 6,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Tüketim",
+    "changePercent": -2.14,
+    "topGainer": "BERA",
+    "stockCount": 2,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Metalurji",
+    "changePercent": 1.99,
+    "topGainer": "KRDMA",
+    "stockCount": 2,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Holding",
+    "changePercent": -1.83,
+    "topGainer": "KERVN",
+    "stockCount": 49,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Sanayi",
+    "changePercent": -1.38,
+    "topGainer": "EMPAE",
+    "stockCount": 179,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Medya",
+    "changePercent": -1.34,
+    "topGainer": "HURGZ",
+    "stockCount": 2,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Turizm",
+    "changePercent": -1.22,
+    "topGainer": "LIDER",
+    "stockCount": 11,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Bankacılık",
+    "changePercent": -1.2,
+    "topGainer": "DSTKF",
+    "stockCount": 22,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Finans",
+    "changePercent": -1.14,
+    "topGainer": "GSDDE",
+    "stockCount": 9,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Tekstil",
+    "changePercent": -1.13,
+    "topGainer": "BRKO",
+    "stockCount": 21,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Yatırım",
+    "changePercent": 1.1,
+    "topGainer": "ETYAT",
+    "stockCount": 2,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Sağlık",
+    "changePercent": -1.04,
+    "topGainer": "FORTE",
+    "stockCount": 9,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Madencilik",
+    "changePercent": 0.95,
+    "topGainer": "CVKMD",
+    "stockCount": 5,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Otomotiv",
+    "changePercent": -0.85,
+    "topGainer": "DITAS",
+    "stockCount": 11,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Kimya",
+    "changePercent": -0.83,
+    "topGainer": "KLKIM",
+    "stockCount": 3,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Perakende",
+    "changePercent": -0.79,
+    "topGainer": "TKNSA",
+    "stockCount": 14,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Enerji",
+    "changePercent": -0.67,
+    "topGainer": "SMART",
+    "stockCount": 54,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Gıda",
+    "changePercent": -0.66,
+    "topGainer": "BLUME",
+    "stockCount": 65,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Spor",
+    "changePercent": -0.56,
+    "topGainer": "FENER",
+    "stockCount": 4,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Ulaşım",
+    "changePercent": -0.49,
+    "topGainer": "MANAS",
+    "stockCount": 15,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Gayrimenkul",
+    "changePercent": -0.41,
+    "topGainer": "AKFIS",
+    "stockCount": 62,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "Teknoloji",
+    "changePercent": -0.24,
+    "topGainer": "PKART",
+    "stockCount": 46,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  },
+  {
+    "name": "İnşaat",
+    "changePercent": -0.1,
+    "topGainer": "ENKAI",
+    "stockCount": 1,
+    "updatedAt": "2026-03-01T10:00:00Z"
+  }
+]
