@@ -11,9 +11,6 @@ struct SettingsView: View {
     // User preferences
     @AppStorage("preferredColorScheme") private var colorScheme = "dark"
     @AppStorage("isAIEnabled") private var isAIEnabled = true
-    @AppStorage("openAIApiKey") private var openAIApiKey = ""
-    @State private var apiKeyInput = ""
-    @State private var showAPIKey = false
     @AppStorage("quoteTTLSeconds") private var quoteTTL = 60.0
     @AppStorage("hasSeenOnboarding") private var hasSeenOnboarding = true
     @AppStorage("liveNewsEnabled") private var liveNewsEnabled = true
@@ -68,53 +65,6 @@ struct SettingsView: View {
                             Text("AI kapalıyken asistan yalnızca kural tabanlı analizler gösterir.")
                                 .font(.caption)
                                 .foregroundStyle(Color.textTertiary)
-                        }
-
-                        if isAIEnabled {
-                            VStack(alignment: .leading, spacing: 6) {
-                                Text("OpenAI API Anahtarı")
-                                    .font(.caption.weight(.semibold))
-                                    .foregroundStyle(Color.textSecondary)
-                                HStack {
-                                    if showAPIKey {
-                                        TextField("sk-...", text: $apiKeyInput)
-                                            .autocorrectionDisabled()
-                                            .textInputAutocapitalization(.never)
-                                            .font(.system(.caption, design: .monospaced))
-                                            .foregroundStyle(Color.textPrimary)
-                                    } else {
-                                        SecureField("sk-...", text: $apiKeyInput)
-                                            .autocorrectionDisabled()
-                                            .textInputAutocapitalization(.never)
-                                            .font(.system(.caption, design: .monospaced))
-                                            .foregroundStyle(Color.textPrimary)
-                                    }
-                                    Button {
-                                        showAPIKey.toggle()
-                                    } label: {
-                                        Image(systemName: showAPIKey ? "eye.slash" : "eye")
-                                            .foregroundStyle(Color.textTertiary)
-                                    }
-                                    .buttonStyle(.plain)
-                                    Button("Kaydet") {
-                                        openAIApiKey = apiKeyInput.trimmingCharacters(in: .whitespaces)
-                                    }
-                                    .font(.caption.weight(.semibold))
-                                    .foregroundStyle(Color.brandAccent)
-                                    .buttonStyle(.plain)
-                                }
-                                if !openAIApiKey.isEmpty {
-                                    Text("Anahtar kaydedildi ✓")
-                                        .font(.caption2)
-                                        .foregroundStyle(Color.positive)
-                                } else {
-                                    Text("platform.openai.com/api-keys adresinden alabilirsiniz.")
-                                        .font(.caption2)
-                                        .foregroundStyle(Color.textTertiary)
-                                }
-                            }
-                            .padding(.vertical, 4)
-                            .onAppear { apiKeyInput = openAIApiKey }
                         }
                     } header: {
                         Text("Asistan")
